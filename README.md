@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/nisshongo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Nisshongo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nisshongo/) |
+| **Get License** | [Secure Licensing Rights for Nisshongo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nisshongo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> নিঃসঙ্গ এই বিষণ্ণ রাত খোঁজে তোমার ছায়া
+> অন্ধকারে পুড়ছে হৃদয় কোথায় তোমার মায়া.. কোথায় মায়া..
+> বুকের মাঝে প্রেমের আগুন জ্বলছে দেখো আজ
+> নিশাচর এই মাতাল হাওয়ায় নেই তো কোনো লাজ
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
